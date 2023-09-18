@@ -1,4 +1,4 @@
-# Super AI Assistant
+# Super AI Assistant						[[中文](https://github.com/androidminds/SuperAIAssistant/blob/main/README_zh.md)]
 
 This project is a localized version of ChatGPT, which utilizes chatgpt to assist us in various interesting tasks such as dialog, translation, drawing and more, Currently, it is focused on enhancing dialog capabilities, but I plan to expand its functionality through future updates.
 
@@ -12,10 +12,10 @@ This application has been developed using Electron, Vue3, Tailwind, Type Script 
 
 #### Desktop applications
 
-| Operating System        | Download                                                                                          |
-| ----------------------- | ------------------------------------------------------------------------------------------------- |
+| Operating System        | Download                                                  |
+| ----------------------- | --------------------------------------------------------- |
 | Windows (32 and 64-bit) | https://github.com/androidminds/SuperAIAssistant/releases |
-| Linux                   |                                                                                                   |
+| Linux                   |                                                           |
 
 ## Compile from the source
 
