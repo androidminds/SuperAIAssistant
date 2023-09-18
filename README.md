@@ -14,7 +14,7 @@ This application has been developed using Electron, Vue3, Tailwind, Type Script 
 
 | Operating System        | Download                                                                                          |
 | ----------------------- | ------------------------------------------------------------------------------------------------- |
-| Windows (32 and 64-bit) | [https://github.com/androidminds/SuperAIAssistant/releases/download/v0.1.0/ai-assistant_0.1.0.exe]() |
+| Windows (32 and 64-bit) | [https://github.com/androidminds/SuperAIAssistant/releases/download/v0.1.1/ai-assistant_0.1.1.exe]() |
 | Linux                   |                                                                                                   |
 
 ## Compile from the source
