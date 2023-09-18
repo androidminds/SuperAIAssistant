@@ -1,4 +1,4 @@
-# Super AI Assistant 0.1.0
+# Super AI Assistant
 
 This project is a localized version of ChatGPT, which utilizes chatgpt to assist us in various interesting tasks such as dialog, translation, drawing and more, Currently, it is focused on enhancing dialog capabilities, but I plan to expand its functionality through future updates.
 
