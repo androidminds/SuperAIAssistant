@@ -1,0 +1,14 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.user-drag {
+    -webkit-user-drag: none;
+}
+
+.user-select {
+    user-select: none;
+}
+
+
